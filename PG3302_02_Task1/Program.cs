@@ -2,6 +2,9 @@
 
 class Program {
     static void Main() {
-        Console.WriteLine("Hello, World!");
+        Date date = new Date(10);
+        Console.WriteLine($"The month is: {date.Month}");
+        Console.WriteLine($"The month is: {date.Month}");
+
     }
 }

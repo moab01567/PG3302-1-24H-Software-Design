@@ -1,0 +1,15 @@
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/bin/Debug/net8.0/PG3302_02_Task1
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/bin/Debug/net8.0/PG3302_02_Task1.deps.json
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/bin/Debug/net8.0/PG3302_02_Task1.runtimeconfig.json
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/bin/Debug/net8.0/PG3302_02_Task1.dll
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/bin/Debug/net8.0/PG3302_02_Task1.pdb
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.AssemblyInfoInputs.cache
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.AssemblyInfo.cs
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.csproj.CoreCompileInputs.cache
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.sourcelink.json
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.dll
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/refint/PG3302_02_Task1.dll
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.pdb
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/PG3302_02_Task1.genruntimeconfig.cache
+/Users/mo/Desktop/kristianina/2024 høst semester 3/PG3302-1 24H Software Design/lecture 2/PG3302_02_Task1/PG3302_02_Task1/obj/Debug/net8.0/ref/PG3302_02_Task1.dll

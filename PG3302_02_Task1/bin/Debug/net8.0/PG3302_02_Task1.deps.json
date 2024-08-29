@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PG3302_02_Task1/1.0.0": {
+        "runtime": {
+          "PG3302_02_Task1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PG3302_02_Task1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
