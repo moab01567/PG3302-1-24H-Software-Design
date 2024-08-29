@@ -13,7 +13,7 @@ public class Person
     }
 
     public string FullName {
-        get { return $"{_firstName} {_lastName}"; }
+        get { return $"{_firstName} {_lastName}"; 
     }
 
 
