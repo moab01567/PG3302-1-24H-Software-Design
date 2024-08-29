@@ -1,8 +1,7 @@
 namespace PG3302_02_Task1;
 
-public class Person
-{
-    private string _firstName="<first name not set>";
+public class Person {
+    private  string _firstName;
     private string _lastName="<last name not set>";
     
     public string FirstName {
@@ -16,6 +15,12 @@ public class Person
         get { return $"{_firstName} {_lastName}"; }
     }
 
+    public Person(string firstName, string lastName) {
+        _firstName = firstName;
+        _lastName = lastName;
+    }
 
-
+    public Person(string firstName) {
+        _firstName = firstName;
+    }
 }
